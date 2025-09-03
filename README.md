@@ -258,7 +258,8 @@ cd  examples
 ### Login to Docker [Create an account with https://hub.docker.com/]
 
 ```
-docker login
+docker login -u awsdevops95117
+
 ```
 
 ```
